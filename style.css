@@ -40,7 +40,6 @@ div#goto-links ul {
     margin: 0 15px;
 }
 
-.navigation-bar a {
-    text-decoration: none; 
+.navigation-bar a { 
     padding: 5px 10px;
 }
