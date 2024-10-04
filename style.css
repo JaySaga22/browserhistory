@@ -1,44 +1,7 @@
 h1, h2, h3 {
-    font-family: 'Oswald', sans-serif;
-}
-
-body, p, li {
-    font-family: 'Open Sans', sans-serif;
-}
-
-body {
     color: darkblue;
-    background-color: ivory;
-    margin: 10px 50px;
 }
 
-img {
-    display: inline-block;
-    vertical-align: middle;
+a.nav-link {
+    color: white !important;
 }
-
-div#goto-links ul {
-    margin-left: 100px;
-    margin-right: 100px;
-    display: block;
-}
-
-/* .navigation-bar {
-    padding: 10px;
-    text-align: center;
-}
-
-.navigation-bar ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: inline-flex;
-}
-
-.navigation-bar li {
-    margin: 0 15px;
-}
-
-.navigation-bar a {
-    padding: 5px 10px; 
-} */
