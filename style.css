@@ -1,7 +1,7 @@
-h1, h2, h3 {
-    color: darkblue;
+.nav-link {
+    color: white !important;
 }
 
-a.nav-link {
-    color: white !important;
+h1, h2, h3 {
+    color: darkblue;
 }
